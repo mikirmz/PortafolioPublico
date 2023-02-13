@@ -247,8 +247,8 @@ p {
 /** Media Queries **/
 
 .main .sobre-mi {
-    min-height: 80vh;
-    padding: 3rem 0;
+    min-height: 0vh;
+    padding: 3.5rem 0;
     background: #ffffff;
     color: #000000;
     margin-bottom: 3rem;
@@ -296,7 +296,7 @@ p {
 }
 
 .main .proyectos {
-    padding: 3rem 0;
+    padding: 3.5rem 0;
     margin-bottom: 3rem;
 }
 
@@ -384,7 +384,7 @@ p {
     min-height: 70vh;
     background: #ffffff;
     color: #000000;
-    padding: 1rem 0;
+    padding: 3.5rem 0;
     margin-bottom: 3rem;
 }
 
